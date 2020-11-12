@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phlgr&hide_border=true&title_color=fca311&bg_color=14213d&text_color=e5e5e5)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=phlgr)
+
 <!--
 **phlgr/phlgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
