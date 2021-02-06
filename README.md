@@ -9,11 +9,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phlgr&theme=tokyonight_duo)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-<details>
-<summary>😄 MOTD (Meme of the Day)</summary>
-<a href="https://github.com/phlgr"><img src="https://raw.githubusercontent.com/phlgr/phlgr/main/img/meme.png" title="Meme" alt="Please refresh the page if the meme doesn't show up." height="350"></a>
-</details>
-
 </br>
 
 ## Languages and Tools:
