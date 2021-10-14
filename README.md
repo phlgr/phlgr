@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Philipp.</h1>
 <h3 align="center">I'm a passionate full-stack developer from Germany</h3>
 
-- 🌱 I’m currently learning **Docker and Go**
+- 🌱 I’m currently learning **Docker**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React or TypeScript**
 
 <img align="right" src="https://raw.githubusercontent.com/phlgr/phlgr/main/img/octocat.gif" width="200"></img>
 
